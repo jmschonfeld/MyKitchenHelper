@@ -6,5 +6,6 @@ This program is a java-based application that helps the user with tasks in their
 
 # Running the Program
 In order to run the program, follow the steps below:
-1. Download the file located at dist/MyKitchenHelper.jar
-2. Run the command ``java -jar MyKitchenHelper.jar`` in the same directory as the jar file
+- Ensure java is installed on your machine (if not, install from java.com)
+- Download the file located at dist/MyKitchenHelper.jar
+- Run the command ``java -jar MyKitchenHelper.jar`` in the same directory as the jar file
